@@ -1,0 +1,27 @@
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(224, 221, 221);
+    margin-top: 10px;
+}
+
+button{
+    width:90px;
+    height: 36px;
+    padding-bottom: 20px;
+    margin-left: 1100px;
+    margin-top: 15px;
+}
+
+p{
+    margin-top:18px;
+    padding-left: 13px;
+}
+
+.ab{
+    background-color: rgb(247, 244, 244);
+    height: 100%;
+    width: 270px;
+    position: fixed;
+    
+}
